@@ -1,5 +1,5 @@
 # EChat - Chating Application
-![Logo](https://i.ibb.co/qmHWTPG/Official-Agency-Website.png)
+![Logo](https://i.ibb.co/hHSpZGQ/EChat.png)
 
 Chating Website with Social Login System.
 
